@@ -1,0 +1,12 @@
+.image {
+    height: 200px;
+    width: 200px;
+}
+.name {
+    font-weight: bold;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
